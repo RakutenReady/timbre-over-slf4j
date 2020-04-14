@@ -1,4 +1,4 @@
-(defproject timbre-over-slf4j "0.1.0-SNAPSHOT"
+(defproject timbre-over-slf4j "0.1.0"
   :description "Timbre appender that logs messages via slf4j"
   :url "https://github.com/PetrGlad/timbre-over-slf4j"
   :license {:name "MIT"
