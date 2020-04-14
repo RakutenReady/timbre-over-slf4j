@@ -5,6 +5,6 @@
             :url "http://opensource.org/licenses/MIT"}
   :dependencies [[org.clojure/clojure "1.10.1"]
                  [org.slf4j/slf4j-api "1.7.12"]
-                 [com.taoensso/timbre "4.1.4"]]
+                 [com.taoensso/timbre "4.10.0"]]
   :profiles {:test {:dependencies [[uk.org.lidalia/slf4j-test "1.1.0"]]}
              :dev {:dependencies [[uk.org.lidalia/slf4j-test "1.1.0"]]}})
